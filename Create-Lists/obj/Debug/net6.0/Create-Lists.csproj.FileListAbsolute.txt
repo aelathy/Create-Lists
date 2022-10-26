@@ -1,0 +1,15 @@
+F:\CS30\Create-Lists\bin\Debug\net6.0\Create-Lists.exe
+F:\CS30\Create-Lists\bin\Debug\net6.0\Create-Lists.deps.json
+F:\CS30\Create-Lists\bin\Debug\net6.0\Create-Lists.runtimeconfig.json
+F:\CS30\Create-Lists\bin\Debug\net6.0\Create-Lists.dll
+F:\CS30\Create-Lists\bin\Debug\net6.0\Create-Lists.pdb
+F:\CS30\Create-Lists\obj\Debug\net6.0\Create-Lists.csproj.AssemblyReference.cache
+F:\CS30\Create-Lists\obj\Debug\net6.0\Create-Lists.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS30\Create-Lists\obj\Debug\net6.0\Create-Lists.AssemblyInfoInputs.cache
+F:\CS30\Create-Lists\obj\Debug\net6.0\Create-Lists.AssemblyInfo.cs
+F:\CS30\Create-Lists\obj\Debug\net6.0\Create-Lists.csproj.CoreCompileInputs.cache
+F:\CS30\Create-Lists\obj\Debug\net6.0\Create-Lists.dll
+F:\CS30\Create-Lists\obj\Debug\net6.0\refint\Create-Lists.dll
+F:\CS30\Create-Lists\obj\Debug\net6.0\Create-Lists.pdb
+F:\CS30\Create-Lists\obj\Debug\net6.0\Create-Lists.genruntimeconfig.cache
+F:\CS30\Create-Lists\obj\Debug\net6.0\ref\Create-Lists.dll
