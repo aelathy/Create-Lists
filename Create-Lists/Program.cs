@@ -1,4 +1,6 @@
 ﻿// Lists
+#nullable disable
+Console.Clear();
 
 Random rnd = new Random();
 
@@ -80,20 +82,21 @@ foreach (string city in cities)
     Console.WriteLine(city);
 }
 // Add Names to List
+List<string> names = new List<string>();
 bool loop = true;
 while (loop)
 {
-    List<string> names = new List<string>();
     Console.Write("What would you like to add?: ");
     string nameAdded = Console.ReadLine();
     names.Add(nameAdded);
     Console.WriteLine("done");
-    for (int i = 0; i < names.Count; i++)
+    foreach (string name in names)
     {
-        Console.WriteLine(names[i]);
+        Console.WriteLine(name);
     }
-    if (nameAdded == "6")
+    if (nameAdded == "exit")
     {
         break;
     }
 }
+
